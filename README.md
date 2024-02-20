@@ -1,5 +1,9 @@
 # auto-sh1mmer
 
+THIS NO LONGER WORKS WITHOUT HARDWARE MODIFICATIONS AS OF FEBRUARY 2024.
+proceed at your own risk.
+I have also included some VERY USEFUL Links regarding this in a new file on this repository. This repository is basically obselite unless you want to bulk create the shims (and USBs???). The reason that this no longer fully works is due to GOOGLE, everybody's favorite. The original file mirror for factory shims was taken down. However I will also add THE PENCIL METHOD to this repository because this exploit is still usable if you short some pins on your motherboard. 
+
 An automatic set of scripts to build a RMA (factory) shim for a given ChromeOS board and inject the sh1mmer payload (BeautifulWorld).
 
 ## Regarding Prebuilt Shims
